@@ -1,0 +1,11 @@
+/Users/keatonwilliamson/workspace/Csharp35-Demos/myFirstCsharpApp/bin/Debug/netcoreapp3.0/myFirstCsharpApp
+/Users/keatonwilliamson/workspace/Csharp35-Demos/myFirstCsharpApp/bin/Debug/netcoreapp3.0/myFirstCsharpApp.deps.json
+/Users/keatonwilliamson/workspace/Csharp35-Demos/myFirstCsharpApp/bin/Debug/netcoreapp3.0/myFirstCsharpApp.runtimeconfig.json
+/Users/keatonwilliamson/workspace/Csharp35-Demos/myFirstCsharpApp/bin/Debug/netcoreapp3.0/myFirstCsharpApp.runtimeconfig.dev.json
+/Users/keatonwilliamson/workspace/Csharp35-Demos/myFirstCsharpApp/bin/Debug/netcoreapp3.0/myFirstCsharpApp.dll
+/Users/keatonwilliamson/workspace/Csharp35-Demos/myFirstCsharpApp/bin/Debug/netcoreapp3.0/myFirstCsharpApp.pdb
+/Users/keatonwilliamson/workspace/Csharp35-Demos/myFirstCsharpApp/obj/Debug/netcoreapp3.0/myFirstCsharpApp.csprojAssemblyReference.cache
+/Users/keatonwilliamson/workspace/Csharp35-Demos/myFirstCsharpApp/obj/Debug/netcoreapp3.0/myFirstCsharpApp.AssemblyInfoInputs.cache
+/Users/keatonwilliamson/workspace/Csharp35-Demos/myFirstCsharpApp/obj/Debug/netcoreapp3.0/myFirstCsharpApp.AssemblyInfo.cs
+/Users/keatonwilliamson/workspace/Csharp35-Demos/myFirstCsharpApp/obj/Debug/netcoreapp3.0/myFirstCsharpApp.dll
+/Users/keatonwilliamson/workspace/Csharp35-Demos/myFirstCsharpApp/obj/Debug/netcoreapp3.0/myFirstCsharpApp.pdb
